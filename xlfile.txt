@@ -1,0 +1,75 @@
+# A tibble: 8 × 8
+  Stations Longitude Latitude Zones Depth Phytoplankton Diatoms Dinoflagilates
+  <chr>        <dbl>    <dbl> <chr> <dbl>         <dbl>   <dbl>          <dbl>
+1 A              126       18 Upper     1          54.8    42.6          12.2 
+2 A              126       18 Upper     2          96.5    89.6           6.96
+3 A              126       18 Upper     3          98.3    88.7           9.57
+4 A              126       18 Upper     4          12.2     8.7           3.48
+5 B              128       18 Upper     1          40.9    20            20.9 
+6 B              128       18 Upper     2          22.6    14.8           7.83
+7 B              128       18 Upper     3          63.5    47.8          15.6 
+8 B              128       18 Upper     4          50.4    44.4           6.09
+[1] "C:/Users/Anjon Das/Documents"
+  A X126 X18  Upper X1 X54.78 X42.61 X12.17
+1 A  126  18 Upper   2  96.52  89.57   6.96
+2 A  126  18 Upper   3  98.26  88.70   9.57
+3 A  126  18 Upper   4  12.17   8.70   3.48
+4 B  128  18 Upper   1  40.87  20.00  20.87
+5 B  128  18 Upper   2  22.61  14.78   7.83
+6 B  128  18 Upper   3  63.48  47.83  15.65
+7 B  128  18 Upper   4  50.43  44.35   6.09
+  V1  V2 V3     V4 V5    V6    V7    V8
+1  A 126 18 Upper   1 54.78 42.61 12.17
+2  A 126 18 Upper   2 96.52 89.57  6.96
+3  A 126 18 Upper   3 98.26 88.70  9.57
+4  A 126 18 Upper   4 12.17  8.70  3.48
+5  B 128 18 Upper   1 40.87 20.00 20.87
+6  B 128 18 Upper   2 22.61 14.78  7.83
+7  B 128 18 Upper   3 63.48 47.83 15.65
+8  B 128 18 Upper   4 50.43 44.35  6.09
+  A   B  C      D E     F     G     H
+1 A 126 18 Upper  1 54.78 42.61 12.17
+2 A 126 18 Upper  2 96.52 89.57  6.96
+3 A 126 18 Upper  3 98.26 88.70  9.57
+4 A 126 18 Upper  4 12.17  8.70  3.48
+5 B 128 18 Upper  1 40.87 20.00 20.87
+6 B 128 18 Upper  2 22.61 14.78  7.83
+7 B 128 18 Upper  3 63.48 47.83 15.65
+8 B 128 18 Upper  4 50.43 44.35  6.09
+Error in install.packages : object 'bsts' not found
+[1]   2   6  18  54 162
+[1]   2   6  18  54 162
+     V1   V2    V3
+1  Name Roll Marks
+2 Rahim   40    70
+3 karim   33    98
+4 Jalil   37    58
+     V1   V2    V3
+1  Name Roll Marks
+2 Rahim   40    70
+3 karim   33    98
+4 Jalil   37    58
+     V1   V2    V3
+1  Name Roll Marks
+2 Rahim   40    70
+3 karim   33    98
+4 Jalil   37    58
+     V1   V2    V3
+1  Name Roll Marks
+2 Rahim   40    70
+3 karim   33    98
+4 Jalil   37    58
+   Name Roll Marks
+1 Rahim   40    70
+2 karim   33    98
+3 Jalil   37    58
+Error in View : object 'datafile4' not found
+   Name Roll Marks
+1 Rahim   40    70
+2 karim   33    98
+3 Jalil   NA    58
+Error in View : object 'datafile5' not found
+[1] "C:/Users/Anjon Das/Documents"
+[1] "C:/Users/Anjon Das/Documents"
+[1] "C:/Users/Anjon Das/Documents"
+[1] "C:/Users/Anjon Das/Documents"
